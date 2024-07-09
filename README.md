@@ -1,27 +1,25 @@
-<h1>Encriptador  de texto</h1>
--Estado de proyecto: finalizado.
+# Encriptador de Texto
+Victor Padilla (Luzegras)
 
+**Estado del proyecto:** Finalizado
 
-<h1>Uso</h1>
+## Este proyecto es parte del desafio Alura.
+**Lenguajes:** Html, css, Javascript.
 
--Encriptar un Mensaje:
+## Uso
 
-1 Escribe "mensaje de prueba" en el cuadro de texto.
+### Encriptar un Mensaje:
 
-2 Presiona el botón "Encriptar".
+1. Escribe "mensaje de prueba" en el cuadro de texto.
+2. Presiona el botón "Encriptar".
+3. El texto encriptado aparecerá en el segundo cuadro de texto.
 
-3 El texto encriptado aparecerá en el segundo cuadro de texto.
+### Desencriptar un Mensaje:
 
+1. Ingresa el texto encriptado en el cuadro de texto.
+2. Presiona el botón "Desencriptar".
+3. El texto desencriptado aparecerá en el segundo cuadro de texto y será "mensaje de prueba".
 
--Desencriptar un Mensaje:
+### Copiar el Texto Desencriptado:
 
-1 Ingresa el texto encriptado en el cuadro de texto.
-
-2 Presiona el botón "Desencriptar".
-
-3 El texto desencriptado aparecerá en el segundo cuadro de texto y será "mensaje de prueba".
-
-
--Copiar el Texto Desencriptado:
-
-Presiona el botón "Copiar" para copiar el texto de la caja encriptada al portapapeles.
+- Presiona el botón "Copiar" para copiar el texto desencriptado al portapapeles.
